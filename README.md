@@ -1,2 +1,2 @@
-# test-repo
-test for coursera
+# Hello world
+Git tutorial
